@@ -27,8 +27,8 @@ End the program.
 
 
 ## Program:
-### Developed By   : VINOD KUMAR S
-### Register Number: 212222240116
+### Developed By   : Ragavendran A
+### Register Number: 212222230114
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
